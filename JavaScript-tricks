@@ -1,2 +1,7 @@
+// This file includes javaScript and Jquery tricks I faced
+
+<script>
 //disabling a bootstrap modal to close in certain cases.
 $('#pushToGitModal').data('bs.modal').options.backdrop = 'static';
+</script>
+
